@@ -15,7 +15,7 @@ A test project for visually modifying and improving a UI
 
 ## Code writer
 
-- [Joshua Carr](https://github.com/joshua-carr)
+- [Joshua Carr](https://github.com/JCarr719)
 
 ## Tools
 
